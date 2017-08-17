@@ -3,8 +3,8 @@ basic algorithm and data structure
 
 ## classics
 some classic problems and their algorithm.
-* -Mouse in a maze-
-* -Monotonous stack-
++ *Mouse in a maze*
++ *Monotonous stack*
 
 ## tree
 some problems involved in tree
